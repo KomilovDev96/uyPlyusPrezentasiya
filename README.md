@@ -1,2 +1,13 @@
-# uyPlyusPrezentasiya
-uyPlyusPrezentasiya uchun
+# UY+ Energy — mobile mockup
+
+Мобильный HTML-мокап UY+ Energy для Android-ориентированного UX.
+
+## Файлы
+
+- `index.html` — основная обновлённая UX v2 версия.
+- `ux-v2.html` — копия основной версии для просмотра отдельно.
+- `legacy-index.html` — предыдущая версия интерфейса.
+- `solar-house-3d.png` — 3D-сцена дома с солнечными панелями.
+- `service-master.png` — иллюстрация мастера сервисного центра.
+
+Все данные и авторизация в проекте демонстрационные, без подключения к реальному API.
